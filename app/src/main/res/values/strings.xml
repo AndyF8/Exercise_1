@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="welcome">Selamat datang di aplikasi</string>
+    <string name="naem">Nama</string>
+    <string name="passs">Password</string>
+    <string name="tNama">Nama Anda</string>
+    <string name="tEmail">Masukkan Nama</string>
+    <string name="tPassword">Masukkan Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="who">Pengguna baru ?</string>
+    <string name="re">Register</string>
+    <string name="daftar">Register</string>
+    <string name="ennama">Masukkan Nama</string>
+    <string name="enemail">Masukkan Email</string>
+    <string name="enpass">Masukkan Password</string>
+    <string name="bre">Register</string>
+    <string name="regisnama">Nama</string>
+    <string name="regismail">E-Mail</string>
+    <string name="regispass">Password</string>
+    <string name="rerep">Re-Pass</string>
+    <string name="registrasi">Todo App</string>
+    <string name="ttask">Task</string>
+    <string name="mta">Masukkan Task</string>
+    <string name="mjt">Masukkan Jenis Task</string>
+    <string name="mti">Masukkan Lama Task</string>
+    <string name="tjt">Jenis Task</string>
+    <string name="ttime">Time Task</string>
+    <string name="welcom">Selamat Datang</string>
+    <string name="anda">nama anda</string>
+    <string name="task">Task</string>
+    <string name="tlogout">Logout</string>
+    <string name="tsubmit">Submit</string>
+
+</resources>

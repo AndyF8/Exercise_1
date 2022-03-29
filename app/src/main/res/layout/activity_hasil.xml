@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/htask"
+        android:layout_width="212dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="60dp"
+        android:text="@string/task"
+        android:textColor="@color/black"
+        android:textSize="14pt"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.175"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/ht"
+        android:layout_width="206dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="160dp"
+        android:text="@string/ttask"
+        android:textColor="@color/black"
+        android:textSize="11pt"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.175"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/hat"
+        android:layout_width="206dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="196dp"
+        android:text="@string/mta"
+        android:textColor="@color/black"
+        android:textSize="10pt"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.17"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/hjt"
+        android:layout_width="206dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="280dp"
+        android:text="@string/tjt"
+        android:textColor="@color/black"
+        android:textSize="11pt"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.17"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/hajt"
+        android:layout_width="276dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="316dp"
+        android:text="@string/mjt"
+        android:textColor="@color/black"
+        android:textSize="10pt"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.259"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/htk"
+        android:layout_width="206dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="416dp"
+        android:text="@string/ttime"
+        android:textColor="@color/black"
+        android:textSize="11pt"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.175"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tak"
+        android:layout_width="275dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="452dp"
+        android:text="@string/mti"
+        android:textColor="@color/black"
+        android:textSize="10pt"
+        app:layout_constraintBaseline_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.264"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
